@@ -1,4 +1,4 @@
-# ticket-manager-rest-api
+# Ticket Management Rest API
 ----------------------
 
 Requirements
